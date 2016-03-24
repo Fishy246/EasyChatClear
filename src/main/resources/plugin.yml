@@ -1,0 +1,12 @@
+name: ${project.name}
+version: ${project.version}
+main: me.fishy246.easychatclear.Main
+author: Fishy246
+
+commands:
+  chatclear:
+    description: Allows the user to clear the global chat
+    aliases: [cc,ecc,clearchat]
+  individualchatclear:
+    description: Allows the user to clear an individual players chat
+    aliases: [icc,pcc,ccp]

@@ -1,0 +1,20 @@
+linestoclear:
+  global: 99
+  otherplayer: 99
+  personal: 99
+
+permissions:
+  clearchat: 'ecc.clearchat'
+  clearplayerchat: 'ecc.clearplayerchat'
+  clearownchat: 'ecc.clearownchat'
+
+messages:
+  nopermission: "&6[ECC] &cYou do not have permission to do this!"
+  incorrectusage: "&6[ECC] &cIncorrect Usage! \n&aCorrect usage: /icc {player}"
+# Use %p to get the name of the player who issued the command
+  globalclearmessage: "&6[ECC] &cThe global chat has been cleared by %p"
+  individualclearmessage: "&6[ECC] &cYour chat has been cleared by %p"
+# Use %t to get the offline/target players name
+  offlineplayer: "&6[ECC] &c%t Is not online!"
+  individualsendermessage: "&6[ECC] &aYou have successfully cleared %t's chat!"
+  ownchatclear: "&6[ECC] &aYou have succesfully cleared your personal chat"
