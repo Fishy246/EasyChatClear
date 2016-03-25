@@ -33,7 +33,6 @@
     </dependencies>
 
     <build>
-        <directory>/Users/SeanCasey/Desktop/Bukkit Server/plugins</directory>
         <finalName>${project.name}</finalName>
         <resources>
             <resource>
