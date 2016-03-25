@@ -11,6 +11,7 @@ permissions:
 messages:
   nopermission: "&6[ECC] &cYou do not have permission to do this!"
   incorrectusage: "&6[ECC] &cIncorrect Usage! \n&aCorrect usage: /icc {player}"
+  configreload: "&6[ECC] &aThe config has been succesfully reloaded"
 # Use %p to get the name of the player who issued the command
   globalclearmessage: "&6[ECC] &cThe global chat has been cleared by %p"
   individualclearmessage: "&6[ECC] &cYour chat has been cleared by %p"

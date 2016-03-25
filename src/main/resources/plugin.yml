@@ -6,7 +6,10 @@ author: Fishy246
 commands:
   chatclear:
     description: Allows the user to clear the global chat
-    aliases: [cc,ecc,clearchat]
+    aliases: [cc,clearchat,chatclear,gcc,globalchatclear,clearglobalchat]
   individualchatclear:
     description: Allows the user to clear an individual players chat
-    aliases: [icc,pcc,ccp]
+    aliases: [playerchatclear,chatclearplayer,icc,pcc,ccp]
+  easychatclear:
+    description: The main ECC plugin command
+    aliases: [ecc,easycc]
